@@ -11,4 +11,4 @@ Warto byłoby sprawdzić aplikacje na telefonach z systemem Android 9-11 lub iOS
 Dodatkowo warto byłoby sprawdzić aplikacje na innych przeglądarkach np. opera/safari i z systemem Windows 10/macOS.
 Wystąpiło 11 błędów na aplikacji desktopowej, 15 na telefonie.
  <br>LINK DO CAŁEGO RAPORTU</br>
-https://docs.google.com/document/d/1E2E2xlvYJxx6_yyYzYmc6tEDbI850RkD/edit?usp=sharing&ouid=109036235607774440541&rtpof=true&sd=true
+<a href="https://docs.google.com/document/d/1E2E2xlvYJxx6_yyYzYmc6tEDbI850RkD/edit?usp=sharing&ouid=109036235607774440541&rtpof=true&sd=true">Raport-Dysk Google</a>

@@ -1,4 +1,4 @@
-# <title>RAPORTY-Z-TESTOW-EKSPLORACYJNYCH</title>
+# RAPORTY-Z-TESTOW-EKSPLORACYJNYCH
 <h1><b>Raporty zostały przygotowane podczas trwania stażu Testuj.pl</b></h1>
 Sporządzone raporty miały na celu przyswojenie i ugruntowanie wiedzy na temat testów eksploracyjnych
 oraz zdobycie doświadczenia w testowaniu ad-hoc. Należało odbyć minimum 5 sesji po 90-120 minut i stworzyć raport przeprowadzonych testów.
